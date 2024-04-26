@@ -14,7 +14,6 @@
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/Shillue/fokus.git)
-- Live site URL: [Add live site URL here]()
 
 ## O que foi visto
 
